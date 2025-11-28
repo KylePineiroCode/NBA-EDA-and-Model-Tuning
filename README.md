@@ -1,7 +1,7 @@
 # NBA-EDA-and-Model-Tuning
 
 ## Overview
-This project performs **Exploratory Data Analysis (EDA)** and **Machine Learning Model Tuning** on NBA player data to predict the number of single-game (PTS). We will make these predictions based on the numerical metrics in the dataset. The dataset is provided on Kaggle and was created by Eduardo Palmieri. The data set can be found [here](https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2425/data).
+This project performs **Exploratory Data Analysis (EDA)** and **Machine Learning Model Tuning** on NBA player data to predict the number of single-game (PTS). We will make these predictions based on the numerical metrics in the dataset. The dataset is provided on Kaggle and was created by Eduardo Palmieri. The dataset can be found [here](https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2425/data).
 
 This repository includes two Jupyter notebooks:
 - Exploratory_Data_Analysis.ipynb
@@ -12,3 +12,9 @@ This repository includes two Jupyter notebooks:
 - Use regression techniques to **predict points** based on **numerical features**
 - Tune advanced models to improve accuracy
 - Evalute model performance using standard scoring metrics 
+
+## Exploratory Data Analysis
+The Exploratory Data Analysis section of this project contains features like a clean, structured EDA notebook, correlation heatmaps and descriptive statisics, along with feature engineering and data preprocessing. 
+
+### Visualizations in EDA:
+![alt text](image.png), ![alt text](image-1.png)
