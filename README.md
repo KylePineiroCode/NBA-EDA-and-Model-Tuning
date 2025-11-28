@@ -16,5 +16,11 @@ This repository includes two Jupyter notebooks:
 ## Exploratory Data Analysis
 The Exploratory Data Analysis section of this project contains features like a clean, structured EDA notebook, correlation heatmaps and descriptive statisics, along with feature engineering and data preprocessing. 
 
+**EDA Steps**
+- 1. Basic Analysis - Read the CSV file: Get the shape of the dataset, use the 'head()' function to see some data in the dataset, and see the dtypes in the dataset.
+- 2. Data Cleaning - Handle missing values, seperating the numerical and categorical columns 
+- 3. Data Visualization - Created histograms to see distribution of numerical values, create correlation heatmap to see correlation to points 
+- 4. Create numerical dataset 
+
 ### Visualizations in EDA:
-![alt text](image.png), ![alt text](image-1.png)
+![alt text](image.png) ![alt text](image-1.png)
